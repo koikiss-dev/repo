@@ -1,5 +1,5 @@
 // ==MiruExtension==
-// @name  AnimeFlv
+// @name  AnimeFLV
 // @version v0.0.1
 // @author Yako (koikiss-dev)
 // @lang es
